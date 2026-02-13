@@ -1,0 +1,172 @@
+{
+  "health": 33.333333333333336,
+  "hunger": 100,
+  "happiness": 0.0,
+  "energy": 0,
+  "level": 1,
+  "streak": 3,
+  "total_commits": 91,
+  "mood": "exhausted",
+  "rpg_stats": {},
+  "achievements": [
+    "\ud83e\uddd9\u200d\u2642\ufe0f Elder Council",
+    "\ud83d\udc51 Social Elite",
+    "\ud83d\udc8e Quality Craftsman"
+  ],
+  "history": [
+    {
+      "timestamp": "2026-02-08T01:35:25.916316+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 50,
+      "mood": "neutral",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-02-08T01:55:26.001382+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 46.0,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-02-08T02:02:20.822963+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 42.0,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-02-08T02:08:57.954881+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 38.0,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-02-08T06:53:00.075479+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 34.0,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-02-09T07:06:56.461460+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.333333333333336,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-02-10T07:07:10.897575+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.333333333333336,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-02-11T07:03:49.415802+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.333333333333336,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-02-12T07:03:41.131588+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.333333333333336,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-02-12T21:39:23.346622+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 33.333333333333336,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-02-12T21:46:07.328974+00:00",
+      "daily_commits": 0,
+      "daily_prs": 0,
+      "health": 34.513333333333335,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-02-12T21:54:08.100036+00:00",
+      "daily_commits": 7,
+      "daily_prs": 0,
+      "health": 34.513333333333335,
+      "mood": "elite",
+      "streak": 0,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-02-13T07:02:10.183303+00:00",
+      "daily_commits": 29,
+      "daily_prs": 0,
+      "health": 33.61625,
+      "mood": "elite",
+      "streak": 1,
+      "tier": "elder"
+    },
+    {
+      "timestamp": "2026-02-13T15:05:01.039692+00:00",
+      "daily_commits": 55,
+      "daily_prs": 0,
+      "health": 20.679166666666664,
+      "mood": "struggling",
+      "streak": 2,
+      "tier": "elder"
+    }
+  ],
+  "brutal_stats": {
+    "tier": "elder",
+    "github_years": 9.949349760438055,
+    "social_score": 1.25,
+    "social_penalties": [
+      "quality_curator"
+    ],
+    "avg_repo_quality": 0.8304687500000009,
+    "commit_quality_score": 1.0,
+    "commit_quality_penalties": [],
+    "multipliers": {
+      "xp": 0.25,
+      "decay": 0.8,
+      "requirements": 4.0
+    },
+    "total_stars": 694,
+    "language_diversity_penalty": 1.0,
+    "xp_earned": 169.32999999999998,
+    "dominant_language": "Python",
+    "issues_closed": 3,
+    "issue_close_ratio": 0.6,
+    "issue_score": 1.18,
+    "can_prestige": false,
+    "prestige_missing": [
+      "Need Level 10"
+    ]
+  },
+  "last_update": "2026-02-13T15:05:01.039692+00:00"
+}
